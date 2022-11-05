@@ -31,6 +31,7 @@
 .valor-riscado {
     margin: 15px;
     text-decoration: line-through;
+    color: hsl(228, 12%, 48%);
 }
 
 .valor-atual {
