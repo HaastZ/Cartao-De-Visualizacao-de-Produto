@@ -1,5 +1,5 @@
 # Cartao-De-Visualizacao-de-Produto
-Projeto feito como desafio no site do front end mentor
+Projeto feito como meu 2° desafio no site do front end mentor
 
 # Tecnologias Utilizadas
 * HTML
